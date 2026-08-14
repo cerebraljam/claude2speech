@@ -1,0 +1,12 @@
+{
+  "volume": 0.5,
+  "rate": 190,
+  "max_chars": 0,
+  "locales": [
+    "en_US",
+    "en_GB"
+  ],
+  "voice_overrides": {},
+  "prefer_high_quality": true,
+  "live_narration": true
+}
